@@ -1,0 +1,13 @@
+streamlit==1.24.0
+plotly==5.15.0
+pandas==2.0.2
+numpy==1.24.3
+folium==0.14.0
+streamlit-folium==0.12.0
+inflection==0.5.1
+Pillow==9.5.0
+
+
+
+
+
