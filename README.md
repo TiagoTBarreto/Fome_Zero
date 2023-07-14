@@ -1,6 +1,6 @@
 # 1. Problema de Negócio
 A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza informações como endereço, tipo de culinária servida, se possui reservas, se faz entregas e também uma nota de avaliação dos serviços e produtos do restaurante, dentre outras informações.
-O CEO Guerra foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir dessas análises, para responder às seguintes perguntas:
+O CEO Kleiton Guerra foi recém contratado e precisa entender melhor o negócio para conseguir tomar as melhores decisões estratégicas e alavancar ainda mais a Fome Zero, e para isso, ele precisa que seja feita uma análise nos dados da empresa e que sejam gerados dashboards, a partir dessas análises, para responder às seguintes perguntas:
 ## Geral
   1. Quantos restaurantes únicos estão registrados?
   2. Quantos países únicos estão registrados?
@@ -87,7 +87,9 @@ O CEO Guerra foi recém contratado e precisa entender melhor o negócio para con
   online e fazem entregas?
 
 # 2. Premissas assumidas para a análise
-
+  1. A análise foi realizada com dados de 6927 restaurantes localizados em 125 cidades em 15 países diferentes.
+  2. As quatro principais visões do négocio foram: Visão geral, visão países, visão cidades e visão tipos culinários.
+     
 # 3. Estratégia da solução
 
 # 4. Top 3 Insights de dados
