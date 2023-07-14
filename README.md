@@ -87,10 +87,37 @@ O CEO Kleiton Guerra foi recém contratado e precisa entender melhor o negócio 
   online e fazem entregas?
 
 # 2. Premissas assumidas para a análise
-  1. A análise foi realizada com dados de 6927 restaurantes localizados em 125 cidades em 15 países diferentes.
+  1. A análise foi realizada com dados de 6927 restaurantes localizados em 125 cidades de 15 países diferentes.
   2. As quatro principais visões do négocio foram: Visão geral, visão países, visão cidades e visão tipos culinários.
      
 # 3. Estratégia da solução
+O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4 principais visões do modelo de negócio da empresa:
+  1. Visão Geral do Marketplace
+  2. Visão Países
+  3. Visão Cidades
+  4. Visão Tipos Culinários
+Cada visão é representada pelo seguinte conjunto de métricas.
+
+1. Visão Geral do Marketplace
+  1. Quantidade de restaurantes cadastrados.
+  2. Quantidade de países cadastrados.
+  3. Quantidade de cidades cadastradas.
+  4. Total de avaliações feitas.
+  5. Tipos de Culinárias.
+     
+2. Visão Países
+  1. Quantidade de restaurantes por país.
+  2. Quantidade de cidades por país.
+  3. Quantidade de restaurantes gourmet por país.
+  4. Média de avaliações feitas por país.
+  5. Média de preço de um prato para duas pessoas por país.
+
+3. Visão Cidades
+  1. Cidades com mais restaurantes cadastrados.
+  2. Cidades com mais restaurantes com média de avaliação alta. 
+  3. Cidades com mais restaurantes com média de avaliação baixa. 
+  4. Cidades com mais restaurantes com tipos culinários distintos.
+  5. Cidades com o maior valor médio de prato para dois.
 
 # 4. Top 3 Insights de dados
 
