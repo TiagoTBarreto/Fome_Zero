@@ -96,23 +96,24 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem as 4
   2. Visão Países
   3. Visão Cidades
   4. Visão Tipos Culinários
+
 Cada visão é representada pelo seguinte conjunto de métricas.
 
-1. Visão Geral do Marketplace
+### 1. Visão Geral do Marketplace
   1. Quantidade de restaurantes cadastrados.
   2. Quantidade de países cadastrados.
   3. Quantidade de cidades cadastradas.
   4. Total de avaliações feitas.
   5. Tipos de Culinárias.
      
-2. Visão Países
+### 2. Visão Países
   1. Quantidade de restaurantes por país.
   2. Quantidade de cidades por país.
   3. Quantidade de restaurantes gourmet por país.
   4. Média de avaliações feitas por país.
   5. Média de preço de um prato para duas pessoas por país.
 
-3. Visão Cidades
+### 3. Visão Cidades
   1. Cidades com mais restaurantes cadastrados.
   2. Cidades com mais restaurantes com média de avaliação alta. 
   3. Cidades com mais restaurantes com média de avaliação baixa. 
