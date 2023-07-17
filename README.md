@@ -135,3 +135,5 @@ Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispo
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
 
 # 7. Próximo passos
+  1. Reduzir o numéro de métricas.
+  2. Adicionar novas visões de negócio.
