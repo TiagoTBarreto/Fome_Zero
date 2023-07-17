@@ -120,11 +120,18 @@ Cada visão é representada pelo seguinte conjunto de métricas.
   4. Cidades com mais restaurantes com tipos culinários distintos.
   5. Cidades com o maior valor médio de prato para dois.
 
-# 4. Top 3 Insights de dados
+### 4. Visão Tipos Culinários
+  1. Melhores e piores restaurantes dos principais tipos culinários.
+  2. Melhores e piores tipos de culinária.
+  3. Tipos de culinários com maior e menor valor médio de um prato para duas pessoas.
 
+# 4. Top 3 Insights de dados
+  1. Aproximadamente 18.5% dos restaurantes brasileiros tem média de avaliação abaixo de 2.5.
+  2. A cidade 'London' possui uma grande diversidade culinária e mesmo com a diversidade mantém a qualidade. Tem uma grande quantidade de restaurantes bem avaliados e possui os melhores restaurantes do banco de dados do MarketPlace em diferentes tipos culinários.
+  3. O tipo culinário 'Others' possui a melhor média de avaliação e também o menor valor médio de um prato para duas pessoas.
 # 5. O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado através desse link: https://fome-zero-company.streamlit.app/
 # 6. Conclusão
-O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO
+O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
 
 # 7. Próximo passos
